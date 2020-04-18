@@ -129,6 +129,3 @@ annual_average = sum(list((tempData.values()))) / len(list(tempData.values()))
 
 
 
-
-print(weather_data[151])
-print(weather_data[242])
